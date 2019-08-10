@@ -33,15 +33,11 @@
   },
   {
     "tag": "h4",
-    "innerHtml": "Nature."
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
     "innerHtml": "Chapter I."
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Nature"
   },
   {
     "tag": "p",
@@ -76,11 +72,7 @@
     "innerHtml": "Chapter Ii."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "Commodity."
   },
   {
@@ -116,11 +108,7 @@
     "innerHtml": "Chapter Iii."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "Beauty."
   },
   {
@@ -184,11 +172,7 @@
     "innerHtml": "Chapter Iv."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "Language."
   },
   {
@@ -253,7 +237,7 @@
   },
   {
     "tag": "pre",
-    "innerHtml": "<code>      �\"Can these things be,  \n And overcome us like a summer's cloud,  \n Without our special wonder?\"</code>"
+    "innerHtml": "<code>     \"Can these things be,  \n     And overcome us like a summer's cloud,  \n     Without our special wonder?\"</code>"
   },
   {
     "tag": "p",
@@ -276,11 +260,7 @@
     "innerHtml": "Chapter V."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "Discipline."
   },
   {
@@ -364,11 +344,7 @@
     "innerHtml": "Chapter Vi."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "Idealism."
   },
   {
@@ -425,7 +401,7 @@
   },
   {
     "tag": "pre",
-    "innerHtml": "<code>      Take those lips away  \n Which so sweetly were forsworn;  \n And those eyes,�the break of day,  \n Lights that do mislead the morn.</code>"
+    "innerHtml": "<code> Take those lips away  \n Which so sweetly were forsworn;  \n And those eyes,�the break of day,  \n Lights that do mislead the morn.</code>"
   },
   {
     "tag": "p",
@@ -453,7 +429,7 @@
   },
   {
     "tag": "pre",
-    "innerHtml": "<code>      The charm dissolves apace,  \n And, as the morning steals upon the night,  \n Melting the darkness, so their rising senses  \n Begin to chase the ignorant fumes that mantle  \n Their clearer reason.  \n      Their understanding  \n Begins to swell: and the approaching tide  \n Will shortly fill the reasonable shores  \n That now lie foul and muddy.</code>"
+    "innerHtml": "<code> The charm dissolves apace,  \n And, as the morning steals upon the night,  \n Melting the darkness, so their rising senses  \n Begin to chase the ignorant fumes that mantle  \n Their clearer reason.  \n Their understanding  \n Begins to swell: and the approaching tide  \n Will shortly fill the reasonable shores  \n That now lie foul and muddy.</code>"
   },
   {
     "tag": "p",
@@ -496,11 +472,7 @@
     "innerHtml": "Chapter Vii."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "Spirit."
   },
   {
@@ -533,7 +505,7 @@
   },
   {
     "tag": "pre",
-    "innerHtml": "<code>      \"The golden key  \n Which opes the palace of eternity,\"</code>"
+    "innerHtml": "<code> \"The golden key  \n Which opes the palace of eternity,\"</code>"
   },
   {
     "tag": "p",
@@ -552,11 +524,7 @@
     "innerHtml": "Chapter Viii."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "Prospects."
   },
   {
@@ -569,7 +537,7 @@
   },
   {
     "tag": "pre",
-    "innerHtml": "<code>      \"Man is all symmetry,  \n Full of proportions, one limb to another,  \n      And to all the world besides.  \n      Each part may call the farthest, brother;  \n For head with foot hath private amity,  \n      And both with moons and tides.\n\n      \"Nothing hath got so far  \n But man hath caught and kept it as his prey;  \n      His eyes dismount the highest star;  \n      He is in little all the sphere.  \n Herbs gladly cure our flesh, because that they  \n      Find their acquaintance there.\n\n      \"For us, the winds do blow,  \n The earth doth rest, heaven move, and fountains flow;  \n      Nothing we see, but means our good,  \n      As our delight, or as our treasure;  \n The whole is either our cupboard of food,  \n      Or cabinet of pleasure.\n\n      \"The stars have us to bed:  \n Night draws the curtain; which the sun withdraws.  \n      Music and light attend our head.  \n      All things unto our flesh are kind,  \n In their descent and being; to our mind,  \n      In their ascent and cause.\n\n      \"More servants wait on man  \n Than he'll take notice of. In every path,  \n      He treads down that which doth befriend him  \n      When sickness makes him pale and wan.  \n Oh mighty love! Man is one world, and hath  \n      Another to attend him.\"</code>"
+    "innerHtml": "<code>     \"Man is all symmetry,  \nFull of proportions, one limb to another,  \n     And to all the world besides.  \nEach part may call the farthest, brother;  \n     For head with foot hath private amity,  \nAnd both with moons and tides.\n\n     \"Nothing hath got so far  \nBut man hath caught and kept it as his prey;  \n     His eyes dismount the highest star;  \nHe is in little all the sphere.  \n     Herbs gladly cure our flesh, because that they  \nFind their acquaintance there.\n\n     \"For us, the winds do blow,  \nThe earth doth rest, heaven move, and fountains flow;  \n     Nothing we see, but means our good,  \nAs our delight, or as our treasure;  \n     The whole is either our cupboard of food,  \nOr cabinet of pleasure.\n\n     \"The stars have us to bed:  \nNight draws the curtain; which the sun withdraws.  \n     Music and light attend our head.  \nAll things unto our flesh are kind,  \n     In their descent and being; to our mind,  \nIn their ascent and cause.\n\n     \"More servants wait on man  \nThan he'll take notice of. In every path,  \n     He treads down that which doth befriend him  \nWhen sickness makes him pale and wan.  \n     Oh mighty love! Man is one world, and hath  \nAnother to attend him.\"</code>"
   },
   {
     "tag": "p",
@@ -610,6 +578,10 @@
   {
     "tag": "p",
     "innerHtml": "So shall we come to look at the world with new eyes. It shall answer the endless inquiry of the intellect,�What is truth? and of the affections,�What is good? by yielding itself passive to the educated Will. Then shall come to pass what my poet said; 'Nature is not fixed but fluid. Spirit alters, moulds, makes it. The immobility or bruteness of nature, is the absence of spirit; to pure spirit, it is fluid, it is volatile, it is obedient. Every spirit builds itself a house; and beyond its house a world; and beyond its world, a heaven. Know then, that the world exists for you. For you is the phenomenon perfect. What we are, that only can we see. All that Adam had, all that Caesar could, you have and can do. Adam called his house, heaven and earth; Caesar called his house, Rome; you perhaps call yours, a cobler's trade; a hundred acres of ploughed land; or a scholar's garret. Yet line for line and point for point, your dominion is as great as theirs, though without fine names. Build, therefore, your own world. As fast as you conform your life to the pure idea in your mind, that will unfold its great proportions. A correspondent revolution in things will attend the influx of the spirit. So fast will disagreeable appearances, swine, spiders, snakes, pests, madhouses, prisons, enemies, vanish; they are temporary and shall be no more seen. The sordor and filths of nature, the sun shall dry up, and the wind exhale. As when the summer comes from the south; the snow-banks melt, and the face of the earth becomes green before it, so shall the advancing spirit create its ornaments along its path, and carry with it the beauty it visits, and the song which enchants it; it shall draw beautiful faces, warm hearts, wise discourse, and heroic acts, around its way, until evil is no more seen. The kingdom of man over nature, which cometh not with observation,�a dominion such as now is beyond his dream of God,�he shall enter without more wonder than the blind man feels who is gradually restored to perfect sight.'"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h3",
